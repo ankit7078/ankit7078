@@ -2,7 +2,8 @@
 <h3 align="center">Software Engineer | Frontend Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankit7078&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7078" />
+  <img src="![Uploading ChatGPT Image Jul 29, 2025, 03_05_20 PM.png…]()
+" alt="ankit7078" />
   <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Wakatime Badge" />
 </p>
 
