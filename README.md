@@ -1,12 +1,5 @@
 <h1 align="center">Hey I’m Ankit Verma 👋</h1>
 <h3 align="center">Software Engineer | Frontend Developer | Lifelong Learner</h3>
-
-<p align="center">
-  <img src="![Uploading ChatGPT Image Jul 29, 2025, 03_05_20 PM.png…]()
-" alt="ankit7078" />
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Wakatime Badge" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
