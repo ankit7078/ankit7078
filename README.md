@@ -1,6 +1,5 @@
 <h1 align="center">Hey I’m Ankit Verma 👋</h1>
 <h3 align="center">Software Engineer | Frontend Developer | Lifelong Learner</h3>
----
 
 ### 🧑‍💻 About Me
 
